@@ -57,7 +57,9 @@ tic-tac-toe/
 
 ## 📚 Learning Objectives
 
+```bash
 Object-Oriented Programming (OOP)
 Encapsulation and class design
 Input handling and validation
 Turn-based game logic
+```
